@@ -2,11 +2,12 @@
 
 #### Get Started with MySQL
 
-1. get [MySQL-Workbench](https://dev.mysql.com/downloads/workbench/) <-- download available on their website
+1. Get [MySQL-Workbench](https://dev.mysql.com/downloads/workbench/)
 
 2. [Getting started with MySQL](https://dev.mysql.com/doc/mysql-getting-started/en/)
 
-3. After this you need to have: 1. A database 2. A scheme, on which you can create this table
+3. Requirements after steps above:  1. A database 
+                                    2. A scheme, on which you can create this table
 
 #### Get Started with this table
 
