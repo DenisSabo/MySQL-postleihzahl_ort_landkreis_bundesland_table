@@ -1,4 +1,4 @@
-## WT - Project
+## MySQL/SQL Table for saving Geodata of Germany
 
 #### Get Started with MySQL
 
@@ -13,4 +13,6 @@
 1. open **setupScript.sql** and change the part *LOAD DATA LOCAL INFILE 'directory/to/file/zuordnung_plz_ort_landkreis_default.csv'"* accordingly
 
 2. execute the code from **setupScript.sql**
+
+Sources: [Source for Geodata](https://www.suche-postleitzahl.org/downloads)
 
