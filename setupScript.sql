@@ -1,3 +1,5 @@
+
+
 CREATE TABLE plz_ort_ldk(
     -- max 7 digits, mediumint = 3 bytes + unsigned -> 16.777.215 (max. value) > 7 digits 
 	osm_id mediumint unsigned, 
