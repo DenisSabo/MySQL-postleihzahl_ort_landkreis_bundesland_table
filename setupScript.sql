@@ -24,7 +24,7 @@ CREATE TABLE plz_ort_ldk(
 LOAD DATA LOCAL INFILE 'directory/to/file/zuordnung_plz_ort_landkreis_default.csv'
 INTO TABLE plz_ort_ldk
 FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
     ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
 IGNORE 1 LINES
 (osm_id, ort, plz, landkreis, bundesland);
